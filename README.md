@@ -657,25 +657,19 @@ If the HDL is generated automatically, document the exporter and keep generated 
 
 ---
 
-## 20. My role and contributions
+## 20. My Role and Contributions
 
-The paper lists multiple authors but does not specify each author's individual responsibilities. Edit this section to reflect **only the tasks you personally completed**.
+As a project team member, I contributed to the study and development of an FPGA-based digital logic design approach using Logic Neural Networks (LNN) and Long Short-Term Memory (LSTM) networks. My involvement focused on understanding the system architecture, the role of neural networks in digital logic implementation, and the overall project workflow.
 
-Example template — keep only statements that are true for your contribution:
+My contributions included:
 
-- Studied how LNN and LSTM architectures can represent combinational and sequential logic.
-- Prepared truth-table or sequential test data for the target circuits.
-- Implemented or modified Python/PyTorch training and evaluation scripts.
-- Analysed model accuracy and compared the reported LNN/LSTM results.
-- Created or checked RTL and testbench files.
-- Ran Vivado simulation, synthesis, or implementation.
-- Helped program the ZedBoard and verify physical inputs/outputs.
-- Documented the architecture, execution flow, test evidence, and results in GitHub.
+- Studying how LNN and LSTM architectures can model combinational and sequential digital logic circuits.
+- Understanding the implementation of logic circuits, including NAND gates, Full Adders, and D Flip-Flops, using neural network-based approaches.
+- Understanding the workflow connecting Python/PyTorch models, Verilog RTL, and AMD Xilinx Vivado for hardware simulation and FPGA implementation.
+- Reviewing the simulation results and performance comparisons of LNN- and LSTM-based circuit implementations.
+- Contributing to the project documentation by explaining the system architecture, execution flow, and project outcomes.
 
-**My specific contribution:** `[Write the exact work you personally performed here.]`
-
-Do not claim that you wrote the training/export pipeline, generated the bitstream, or tested the physical board unless you personally did those tasks or can verify them from the project records.
-
+**Note:** The contributions listed above should be retained only if they accurately reflect the work I personally performed.
 ---
 
 ## 21. References and acknowledgements
